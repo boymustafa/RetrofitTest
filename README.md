@@ -1,7 +1,6 @@
 # RetrofitTest
 
-This project is an example how to use retrofit in android. Inspired by this tutorial
-http://www.androidhive.info/2016/05/android-working-with-retrofit-http-library/
+This project is an example how to use retrofit in android.
 
 The api in this projects is taken from
 https://www.themoviedb.org/documentation/api
